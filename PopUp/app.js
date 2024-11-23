@@ -2,8 +2,6 @@
 let popup   =   document.getElementById('popup');
 let btns =   document.querySelector('.btn');
 
-
-
 function openPopup(){
     popup.classList.add('open-popup');
     btns.style.opacity = '0';
