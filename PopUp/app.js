@@ -2,7 +2,7 @@
 let popup   =   document.getElementById('popup');
 let btns =   document.querySelector('.btn');
 
-console.log(addBtn);
+// console.log(addBtn);
 
 function openPopup(){
     popup.classList.add('open-popup');
